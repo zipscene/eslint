@@ -39,7 +39,7 @@
     "doctrine": "^0.6.2",
     "escape-string-regexp": "^1.0.2",
     "escope": "~1.0.0",
-    "espree": "git+ssh://git@github.com:zipscene/espree.git#v1.6.0",
+    "espree": "git+ssh://git@github.com:zipscene/espree.git#zipscene-espree",
     "estraverse": "^1.9.1",
     "globals": "^5.0.0",
     "js-yaml": "^3.2.5",
